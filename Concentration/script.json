@@ -1,8 +1,9 @@
 {
     "name": "Concentration",
     "script": "Concentration.js",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "previousversions": [
+        "0.2.0",
         "0.1.5",
         "0.1.8",
         "0.1.12",
